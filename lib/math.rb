@@ -19,7 +19,7 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-  puts result = num2 % num1
+  puts result = num1 % num2
   result
 end
 
