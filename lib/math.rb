@@ -3,26 +3,21 @@ def addition(num1, num2)
 end
 
 def subtraction(num1, num2)
-  puts result = num1 - num2
-  result
+  result = num1 - num2
 end
 
 def division(num1, num2)
-  puts result = num1 / num2
-  result
+  result = num1 / num2
 end
 
 def multiplication(num1, num2)
-  puts result = num1 * num2
-  result
+  result = num1 * num2
 end
 
 def modulo(num1, num2)
-  puts result = num1 % num2
-  result
+  result = num1 % num2
 end
 
 def square_root(num)
-  puts result = Math.sqrt(num)
-  result
+  result = Math.sqrt(num)
 end
